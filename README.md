@@ -1,3 +1,4 @@
 # Move Planer
-This app is used for getting the information you need for a location.
+This is a beautiful website using ajax technique to get news and wikis and picture about your lovely neighborhood.
+
 > This project from Udacity was also used to practice my ajax skills.
